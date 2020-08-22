@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYP5F57FZlneSI1t6nPEo1FUyZmlzyDhU+7IV8T5k+YjPdq8vI0JVD38YW2ODcUkHEmWhXpV1u8ls+KSTkcijg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\source\\repos\\Knapsack-git\\Knapsack-git\\Knapsack-git.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
