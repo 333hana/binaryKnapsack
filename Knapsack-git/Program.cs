@@ -20,7 +20,9 @@ namespace Knapsack_git
                 Console.WriteLine("Item '" + i + "' value is " + val[i]);
                 Console.WriteLine("...............................");
             }
-           
+            KnapsackDP DP = new KnapsackDP(wt, val, W);
+            DP.solveDP();
+            Console.WriteLine("----------------------------------------------------------");
         }
     }
 }
